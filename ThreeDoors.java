@@ -12,7 +12,7 @@ import java.util.Random;
  *
  * @author Christian
  */
-public class threeDoors {
+public class ThreeDoors {
         
     final static int MAX_NUMBER = 100;
     
